@@ -1,6 +1,6 @@
-﻿using api.product_management_platform.Entities.Common;
+﻿using api.product_management_platform.Domain.Common;
 
-namespace api.product_management_platform.Entities;
+namespace api.product_management_platform.Domain.Entities;
 
 public class Order : BaseEntity
 {

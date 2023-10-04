@@ -1,4 +1,4 @@
-﻿namespace api.product_management_platform.Entities.Common;
+﻿namespace api.product_management_platform.Domain.Common;
 
 public class BaseEntity
 {
